@@ -24,7 +24,7 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc student in <i>Computer Sci
 <br>
 2. CI/CD operations.
 <br>
-<h4>IT Consultantat | La GiocomotivaAgile Development</h4>
+<h4>IT Consultantat | La Giocomotiva</h4>
 <i>May 2021 — May 2022</i>
 <h6>Acquired competences:</h6>
 1. Backend developer on the "La Giocomotiva" company website;
