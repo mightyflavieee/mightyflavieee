@@ -62,7 +62,7 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc student in <i>Computer Sci
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-<h2 align="center">Interesting Projects 📋</h2>
+<!-- <h2 align="center">Interesting Projects 📋</h2> -->
 
 <h2 align="center">Hobbies 🚀</h2>
 
