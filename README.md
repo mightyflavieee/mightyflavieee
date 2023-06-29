@@ -8,7 +8,7 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc student in <i>Computer Sci
 
 <h2 align="center">Work Experience 💻</h2>
 <h4>Frontend Engineer | Fundvis</h4>
-<i>July 2022 — Present</i>
+<i>July 2022 — June 2023</i>
 <h6>Acquired competences:</h6>
 1. Frontend Development:
 <br>
