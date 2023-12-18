@@ -3,7 +3,7 @@
 I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc student in <i>Computer Science & Engineering</i>. I currently work as a <b>Frontend Engineer</b> at [Fundvis](https://www.fundvis.org/) and I have experience in software development, web development and never settle!
 <br>
 <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tommaso-brumani)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-rizzoglio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviorizzoglio@gmail.com)
 
 <h2 align="center">Work Experience 💻</h2>
