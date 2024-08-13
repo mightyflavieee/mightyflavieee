@@ -6,7 +6,36 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc graduate in <i>Computer Sc
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-rizzoglio)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:flaviorizzoglio@gmail.com)
 
-<h2 align="center">Previous Work Experience 💻</h2>
+<h2 align="center">Work Experience 💻</h2>
+<h4>Data Engineer | Quantyca</h4>
+<i>September 2023 — Ongoing</i>
+<h6>Acquired competences:</h6>
+1. Cloud:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Provisioned AWS resources through the use of CloudFormation;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Architected cloud solutions using AWS products and services;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Optimized data workflows for performance and cost-efficiency.
+<br>
+2. Development:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed and implemented robust data pipelines;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Developed efficient ETL jobs to transform and load data into data warehouses;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Designed and implemented data warehouses.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Contributed to backend development using Spring Boot, designing clean and intuitive APIs.
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Ensured code quality through unit testing with JUnit and pytest.
+<br>
+3. Responsabilities:
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Project lead;
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;• Coordinated and led a team of 4 people to successfully complete a key project within the established timeline.
+<br>
 <h4>Frontend Engineer | Fundvis</h4>
 <i>July 2022 — June 2023</i>
 <h6>Acquired competences:</h6>
