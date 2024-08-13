@@ -70,6 +70,7 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc graduate in <i>Computer Sc
 
 <h2 align="center">Technologies 🔭</h2>
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![C](https://img.shields.io/badge/-C-61DAFB?logo=C&logoColor=white&style=flat)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-581845.svg?style=flat&logo=mysql&logoColor=white)
@@ -97,8 +98,11 @@ I'm <b>Flavio</b>, a <i>Software Engineer</i> and MSc graduate in <i>Computer Sc
 
 I love sports and I'm always down for a good challenge, here's what I'm most insterested in:
 
-- Sports:  🧗Climbing, 🏋️‍♂️ Crossfit, 🏃‍♂️ Running, 🏔 Trekking, ⛷ Skiing
-- 🍳 Cooking
+- 🏔️ Alpinism
+- 🧗 Climbing
+- 🏋️‍♂️ Crossfit
+- 🏃‍♂️ Running
+- ⛷ Skiing
 - 📚 Reading
 
 
